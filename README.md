@@ -119,7 +119,7 @@ The script generates a CSV file with ward-level summaries. Example structure:
 
 ## Troubleshooting
 
-- **Missing Files**: Ensure JSON data is correctly placed in the `demo_data_by_ward_2` directory.
+- **Missing Files**: Ensure JSON data is correctly placed in the `<working>` directory.
 - **Corrupt Data**: The script will log and skip invalid files, but ensure file contents match the expected structure.
 
 ---
